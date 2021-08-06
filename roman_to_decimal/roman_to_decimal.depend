@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628282028 source:c:\users\lenovo\desktop\okul\codes\roman_to_decimal\roman_to_decimal.c
+	"roman_to_decimal.h"
+	<stdio.h>
+	<stdlib.h>
+
+1628281946 c:\users\lenovo\desktop\okul\codes\roman_to_decimal\roman_to_decimal.h
+
+1628282097 source:c:\users\lenovo\desktop\okul\codes\roman_to_decimal\main.c
+	"roman_to_decimal.h"
+	<stdio.h>
+	<stdlib.h>
+
